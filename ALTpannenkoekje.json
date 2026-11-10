@@ -63,7 +63,7 @@
       "subtitle": "Snake.io maar beter",
       "localizedDescription": "Snake.io",
       "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/pannenkoekje-altstore-source/main/Snake.io%20logo.webp",
-      "versions" [
+      "versions": [
         {
           "version": "1.0.17",
           "buildVersion": "1.0.17",
