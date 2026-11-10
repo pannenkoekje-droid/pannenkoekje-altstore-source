@@ -1,0 +1,44 @@
+{
+  "name": "pannenkoekje's source",
+  "subtitle": "aangeleverd door pannenkoekje",
+  "description": "source",
+  "iconURL": "https://github.com/pannenkoekje-droid/pannenkoekje-altstore-source/blob/main/alt-source-logo.jpg",
+  "nsfw": false,
+  "apps": [
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.pannenkoekje.eeveespotify",
+      "developerName": "EeveeSpotify",
+      "subtitle": "Spotify premium lokaal gratis",
+      "localizedDescription": "Premium unlocked.",
+      "iconURL": "https://github.com/pannenkoekje-droid/pannenkoekje-altstore-source/blob/main/Spotify%20logo.jpg",
+      "versions": [
+        {
+          "version": "Unknown",
+          "buildVersion": "Unknown",
+          "date": "2026-11-10",
+          "downloadURL": "https://files.catbox.moe/04uc44.ipa",
+          "size": 50-150,
+        }
+      ]
+    },
+    {
+      "name": "Tweede Voorbeeld",
+      "bundleIdentifier": "com.example.tweede",
+      "developerName": "Example Developer",
+      "subtitle": "Nog een voorbeeld-app",
+      "localizedDescription": "Een tweede testapp.",
+      "iconURL": "https://example.com/app2.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-10",
+          "downloadURL": "https://example.com/app2.ipa",
+          "size": 2000000
+        }
+      ]
+    }
+  ],
+  "news": []
+}
