@@ -28,7 +28,7 @@
       "developerName": "XITRIX",
       "subtitle": "Piracy cliënt voor IOS",
       "localizedDescription": "Torrent cliënt",
-      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/pannenkoekje-altstore-source/main/iTorrent%20logo.png"
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/pannenkoekje-altstore-source/main/iTorrent%20logo.png",
       "versions": [
         {
           "version": "2.2.0.1",
