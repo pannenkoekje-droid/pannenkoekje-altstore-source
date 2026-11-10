@@ -14,11 +14,11 @@
       "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/pannenkoekje-altstore-source/main/Spotify%20logo.jpg",
       "versions": [
         {
-          "version": "Unknown",
-          "buildVersion": "Unknown",
+          "version": "9.1",
+          "buildVersion": "9.1",
           "date": "2026-11-10",
           "downloadURL": "https://files.catbox.moe/04uc44.ipa",
-          "size": "Unknown"
+          "size": "90000"
         }
       ]
     }
