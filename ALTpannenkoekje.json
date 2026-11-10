@@ -6,11 +6,11 @@
   "nsfw": false,
   "apps": [
     {
-      "name": "EeveeSpotify",
-      "bundleIdentifier": "com.pannenkoekje.eeveespotify",
+      "name": "Spotify",
+      "bundleIdentifier": "com.pannenkoekje.spotify",
       "developerName": "EeveeSpotify",
-      "subtitle": "Spotify premium lokaal gratis🎧",
-      "localizedDescription": "Spotify premium unlocked",
+      "subtitle": "Spotify lokaal gratis🎧",
+      "localizedDescription": "Spotify maar beter",
       "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/pannenkoekje-altstore-source/main/Spotify%20logo.jpg",
       "versions": [
         {
@@ -26,8 +26,8 @@
       "name": "iTorrent",
       "bundleIdentifier": "com.pannenkoekje.itorrent",
       "developerName": "XITRIX",
-      "subtitle": "Piracy cliënt voor IOS",
-      "localizedDescription": "Torrent cliënt",
+      "subtitle": "cliënt voor IOS",
+      "localizedDescription": "cliënt",
       "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/pannenkoekje-altstore-source/main/iTorrent%20logo.png",
       "versions": [
         {
@@ -38,7 +38,25 @@
           "size": 24288935
         }
       ]
+    },
+    {
+      "name": "Livecontainer",
+      "bundleIdentifier": "com.pannenkoekje.livecontainer",
+      "developerName": "hugeBlack",
+      "subtitle": "Installeer IPA's zonder een app id of een app slot te gebruiken",
+      "localizedDescription": "Handige app voor signers zoals altstore en sidestore",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/pannenkoekje-altstore-source/main/Livecontainer%20logo.png",
+      "versions": [
+        {
+          "versions": "3.8.0",
+          "buildVersion": "3.8.0",
+          "date": "10-11-10",
+          "downloadURL": "https://files.catbox.moe/warjwy.ipa",
+          "size": 4707271
+        }
+      ]
     }
   ],
   "news": []
 }
+      
