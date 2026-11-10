@@ -40,11 +40,11 @@
       ]
     },
     {
-      "name": "Livecontainer",
+      "name": "LiveContainer",
       "bundleIdentifier": "com.pannenkoekje.livecontainer",
       "developerName": "hugeBlack",
       "subtitle": "Installeer IPA's zonder een app id of een app slot te gebruiken",
-      "localizedDescription": "Handige app voor signers zoals altstore en sidestore",
+      "localizedDescription": "Handige app voor signers zoals Altstore en Sidestore",
       "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/pannenkoekje-altstore-source/main/Livecontainer%20logo.png",
       "versions": [
         {
