@@ -26,8 +26,8 @@
       "name": "iTorrent",
       "bundleIdentifier": "com.pannenkoekje.itorrent",
       "developerName": "XITRIX",
-      "subtitle": "cliënt voor IOS",
-      "localizedDescription": "cliënt",
+      "subtitle": "Cliënt voor IOS",
+      "localizedDescription": "Cliënt",
       "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/pannenkoekje-altstore-source/main/iTorrent%20logo.png",
       "versions": [
         {
@@ -54,6 +54,23 @@
           "downloadURL": "https://files.catbox.moe/warjwy.ipa",
           "size": 4707271
         }
+      ]
+    },
+    {
+      "name": "Snake.io+",
+      "bundleIdentifier": "com.pannenkoekje.snakeio+",
+      "developerName": "@ipa_dark",
+      "subtitle": "Snake.io maar beter",
+      "localizedDescription": "Snake.io",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/pannenkoekje-altstore-source/main/Snake.io%20logo.webp",
+      "versions" [
+        {
+          "version": "1.0.17",
+          "buildVersion": "1.0.17",
+          "date": "2026-10-11",
+          "downloadURL": "https://files.catbox.moe/x24uuc.ipa",
+          "size": 66304824
+         }
       ]
     }
   ],
