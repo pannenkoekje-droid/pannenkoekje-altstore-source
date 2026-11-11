@@ -87,6 +87,23 @@
           "date": "2026-11-11",
           "downloadURL": "https://github.com/shreybaviskar/YouTube-Premium-IPA/releases/download/ytp-7/YouTubePlus_5.2b4.ipa",
           "size": 129421312
+         }
+      ]
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.pannenkoekje.minecraft",
+      "developerName": "IosVisor",
+      "subtitle": "Minecraft voor IOS",
+      "localizedDescription": "Minecraft",
+      "iconURL": "https://i.ibb.co/C3nYTvtT/minecraft-on-PC.jpg",
+      "versions": [
+        {
+          "version": "1.26.60",
+          "buildVersion": "1.26.60",
+          "date": "2026-11-11",
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1KsW461RCEwxjf3gPbLtQ-B0lvX6to8xS&export=download&confirm=t",
+          "size": 707574987
         }
       ]
     }
