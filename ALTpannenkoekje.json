@@ -70,6 +70,23 @@
           "date": "2026-10-11",
           "downloadURL": "https://files.catbox.moe/x24uuc.ipa",
           "size": 66304824
+         }
+      ]
+    },
+    {
+      "name": "Youtube Plus",
+      "bundleIdentifier": "com.pannenkoekje.youtube",
+      "developerName": "dayanch",
+      "subtitle": "Youtube maar beter",
+      "localizedDescription": "Youtube",
+      "iconURL": "https://i.ibb.co/qMvFs5bH/images-q-tbn-ANd9-Gc-Q0-XAx-Xep-Mq-Fpd1-Lo9-JSxz-GWLFo-QMOx6-PJc-Pur8-Uzw-s-10.png",
+      "versions": [
+        {
+          "version": "21.13.6",
+          "buildVersion": "21.17.6",
+          "date": "2026-11-11",
+          "downloadURL": "https://files.catbox.moe/7sdja1.ipa",
+          "size": 129421312
         }
       ]
     }
